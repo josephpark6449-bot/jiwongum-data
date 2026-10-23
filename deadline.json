@@ -333,5 +333,22 @@
       "url": "https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127326",
       "source": "기업마당"
     }
-  ]
+  ],
+  "notice": {
+    "date": "2026-10-23",
+    "total": 1,
+    "items": [
+      {
+        "id": "PBLN_000000000127377",
+        "name": "해운대구 청년 창업자 임차료 지원사업 참여자 추가 모집 공고",
+        "audience": "청년",
+        "dday": "D-9",
+        "status": "10/26 접수 시작",
+        "apply_end": "2026-11-01",
+        "summary": "청년 창업자 사업장 월 임차료 20만원씩 3개월분 지원"
+      }
+    ],
+    "rest": 0,
+    "link": "https://blog9.josephpark64.com/?utm_source=threads#item-PBLN_000000000127377"
+  }
 }
